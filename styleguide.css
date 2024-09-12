@@ -1,0 +1,28 @@
+body{
+
+    background-color:crimson;
+
+}
+
+p{
+    color: darkblue;
+}
+
+h1{
+    font-family: cursive;
+    font-size: 50px;
+    color: darkblue;
+
+}
+img{
+
+    border: black;
+    border-radius: 20px;
+    border-width: 5px;
+    border-style: solid;
+}
+a{
+    font-family: 'Times New Roman', Times, serif;
+    color: lightslategray ;
+    font-size: 30px;
+}
